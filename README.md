@@ -1,13 +1,11 @@
 <!-- Header Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anas%20Basha%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20%7C%20Creator&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:a855f7&height=180&section=header&text=Anas%20Basha%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20%7C%20Creator&descAlignY=55&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=🤖+AI+%26+ML+Engineer;🚀+Building+Intelligent+Systems;🎆+Creator+of+VFX+Vault+%28772%2B+effects%29;📊+SalesIQ+%7C+Ensemble+ML+Forecasting;💡+Turning+Ideas+into+Reality!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+🤖;Creator+of+VFX+Vault+🎆;Building+SalesIQ+📊;Turning+Ideas+into+Reality+🚀" alt="Typing SVG"/>
 </div>
 
 <br/>
