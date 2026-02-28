@@ -6,13 +6,13 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=🤖+AI+%26+ML+Engineer;🚀+Building+Intelligent+Systems;🎆+Creator+of+VFX+Vault+%28772%2B+effects%29;📊+SalesIQ+%7C+Ensemble+ML+Forecasting;💡+Turning+Ideas+into+Reality!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=🤖+AI+%26+ML+Engineer;🚀+Building+Intelligent+Systems;🎆+Creator+of+VFX+Vault+%28772%2B+effects%29;📊+SalesIQ+%7C+Ensemble+ML+Forecasting;💡+Turning+Ideas+into+Reality!" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Visitor Badge + Profile Views -->
+<!-- Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SHAIKANASBASHA-55&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/SHAIKANASBASHA-55?style=for-the-badge&color=blueviolet&label=FOLLOWERS"/>
@@ -88,12 +88,17 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAIKANASBASHA-55&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKANASBASHA-55&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" width="40%"/>
+
+  <!-- Using githubstats.me as alternative -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=SHAIKANASBASHA-55&cc=0D1117&tc=FF6B6B&ic=fff&bc=0D1117" width="48%"/>
+
 </div>
 
 <div align="center">
+
+  <!-- Streak using streak-stats.demolab.com (maintained & working) -->
   <img src="https://streak-stats.demolab.com?user=SHAIKANASBASHA-55&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" width="55%"/>
+
 </div>
 
 ---
@@ -127,7 +132,7 @@ me.say_hi()
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/skanasbasha/)">
+  <a href="https://www.linkedin.com/in/skanasbasha/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/SHAIKANASBASHA-55">
