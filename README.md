@@ -115,8 +115,17 @@
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canvasjs/canvasjs-original.svg" width="40" title="Canvas JS" onerror="this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'"/>
-          <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="40" title="Chart.js"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5 Canvas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="Vanilla JS"/>
+```
+
+---
+
+**Fix 2 — Trophies not loading**
+
+Find:
+```
+github-profile-trophy.vercel.app
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
@@ -154,7 +163,16 @@
         <img src="https://streak-stats.demolab.com?user=SHAIKANASBASHA-55&theme=radical&hide_border=true&background=0D1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak"/>
       </td>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=SHAIKANASBASHA-55&theme=radical&no-frame=true&no-bg=true&row=2&column=3" alt="Trophies"/>
+        <div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-FFD43B?style=for-the-badge&logo=python)
+![ML](https://img.shields.io/badge/Machine_Learning-Advanced-F7931E?style=for-the-badge)
+![JS](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Hackathon](https://img.shields.io/badge/Hackathon-Team_Lead_🏆-ff6b6b?style=for-the-badge)
+![VFX](https://img.shields.io/badge/VFX_Vault-772+_Effects_🎆-a855f7?style=for-the-badge)
+![KLU](https://img.shields.io/badge/KL_University-🎓-blue?style=for-the-badge)
+
+</div>
       </td>
     </tr>
   </table>
