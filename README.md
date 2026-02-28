@@ -116,16 +116,7 @@
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5 Canvas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="Vanilla JS"/>
-```
-
----
-
-**Fix 2 — Trophies not loading**
-
-Find:
-```
-github-profile-trophy.vercel.app
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="Vanilla JS"/>
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
@@ -157,13 +148,6 @@ github-profile-trophy.vercel.app
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=SHAIKANASBASHA-55&theme=radical&hide_border=true&background=0D1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak"/>
-      </td>
-      <td>
-        <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Expert-FFD43B?style=for-the-badge&logo=python)
 ![ML](https://img.shields.io/badge/Machine_Learning-Advanced-F7931E?style=for-the-badge)
@@ -172,10 +156,6 @@ github-profile-trophy.vercel.app
 ![VFX](https://img.shields.io/badge/VFX_Vault-772+_Effects_🎆-a855f7?style=for-the-badge)
 ![KLU](https://img.shields.io/badge/KL_University-🎓-blue?style=for-the-badge)
 
-</div>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
